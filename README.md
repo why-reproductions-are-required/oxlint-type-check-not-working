@@ -16,8 +16,6 @@ Finished in 194ms on 6 files with 107 rules using 16 threads.
 ```bash
 vpx tsc --noEmit
 
-vpx tsc --noEmit                                                                                                                                      node(v24.14.0)
-
 apps/website/src/main.ts:2:28 - error TS2307: Cannot find module './assets/typescript.svg' or its corresponding type declarations.
 
 2 import typescriptLogo from "./assets/typescript.svg";
